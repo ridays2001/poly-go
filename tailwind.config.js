@@ -10,6 +10,9 @@ module.exports = {
 					dark: '#4B727E',
 					light: '#CFDBE0',
 					DEFAULT: '#CFDBE0'
+				},
+				gray: {
+					350: 'rgba(196, 196, 196, 0.45)'
 				}
 			}
 		}
