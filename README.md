@@ -1,6 +1,6 @@
 # Welcome to Poly-Go!!!
 Our project for BusiHacks 2021 hackathon.<br> 
-## Teammates:
+## Teammates 👥
 
 -   Shivani Jha
 -   Riday Shah
