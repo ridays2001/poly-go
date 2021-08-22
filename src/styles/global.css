@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	font-family: 'Poppins', 'Sans Serif';
+	scroll-behavior: smooth;
+}
