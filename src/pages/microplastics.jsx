@@ -1,11 +1,14 @@
-import { Link } from 'gatsby';
 import { StaticImage } from 'gatsby-plugin-image';
 import React from 'react';
 import Button from '../components/Button';
 import Layout from '../components/Layout';
+import Helmet from 'react-helmet';
 
 const MicroplasticsPage = () => (
 	<Layout page='mp'>
+		<Helmet>
+			<title>Microplastics | Poly-Go</title>
+		</Helmet>
 		{/* The hero section */}
 		<main className='grid' style={{ height: '95vh' }}>
 			{/* Full size hero image */}

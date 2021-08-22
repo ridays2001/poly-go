@@ -11,6 +11,7 @@ const IndexPage = () => {
 		<Layout>
 			{/* Import css for carousal. */}
 			<Helmet>
+				<title>Home | Poly-Go</title>
 				<link
 					rel='stylesheet'
 					type='text/css'
